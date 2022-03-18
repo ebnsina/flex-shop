@@ -16,6 +16,7 @@
 - Add Rating
 - Filter by Category, Subcategory, Brand, Color, Shipping, Price
 - Payment: Stripe, COD 
+- Coupon Discount
 
 
 ## Frontend
